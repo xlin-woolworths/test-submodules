@@ -1,0 +1,3 @@
+[submodule "wx-api-common"]
+	path = wx-api-common
+	url = https://github.com/woolworthslimited/wx-api-common.git
